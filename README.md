@@ -1,0 +1,1 @@
+# CICD_TP_BUILD_AMI
